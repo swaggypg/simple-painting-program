@@ -1,0 +1,9 @@
+C:\Users\17865\Desktop\CST17011\CST17011\bin\Debug\CST17011.exe.config
+C:\Users\17865\Desktop\CST17011\CST17011\bin\Debug\CST17011.exe
+C:\Users\17865\Desktop\CST17011\CST17011\bin\Debug\CST17011.pdb
+C:\Users\17865\Desktop\CST17011\CST17011\obj\Debug\CST17011.csprojResolveAssemblyReference.cache
+C:\Users\17865\Desktop\CST17011\CST17011\obj\Debug\CST17011.Form1.resources
+C:\Users\17865\Desktop\CST17011\CST17011\obj\Debug\CST17011.Properties.Resources.resources
+C:\Users\17865\Desktop\CST17011\CST17011\obj\Debug\CST17011.csproj.GenerateResource.Cache
+C:\Users\17865\Desktop\CST17011\CST17011\obj\Debug\CST17011.exe
+C:\Users\17865\Desktop\CST17011\CST17011\obj\Debug\CST17011.pdb
